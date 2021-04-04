@@ -8,7 +8,7 @@ img {
     background: var(--base);
     filter: blur(var(--blur));
 }
-.title {
+.highlight {
 color: var(--base);
 }
 
