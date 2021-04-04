@@ -1,25 +1,22 @@
 :root {
-    --base: #ffc600;
-    --spacing: 10px;
-    --blur: 10px;
+  --base: #ffc600;
+  --spacing: 10px;
+  --blur: 10px;
 }
 img {
-    padding: var(--spacing);
-    background: var(--base);
-    filter: blur(var(--blur));
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
 }
 .highlight {
-color: var(--base);
+  color: var(--base);
 }
-
 
 body {
-    text-align: center;
-    background: #073b5c;
-    color: white;
+  text-align: center;
+  background: #073b5c;
+  color: white;
 }
 .controls {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
-
-
